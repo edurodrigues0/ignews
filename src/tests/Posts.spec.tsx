@@ -14,7 +14,7 @@ const posts = [{
 
 jest.mock('../services/prismic')
 
-describe('Post page', () => {
+describe('Posts page', () => {
   it('renders correctly', () => {
 
 
